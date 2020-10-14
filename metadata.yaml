@@ -1,5 +1,5 @@
 _repo: The-Brother-of-a-Hero_63297
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Relyea, C. M. (Charles M.)
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8637'
     url: http://www.gutenberg.org/2009/agents/8637
     wikipedia: https://en.wikipedia.org/wiki/Charles_M._Relyea
+covers:
+- cover_type: archival
+  image_path: 63297-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63297#The-Brother-of-a-Hero
 gutenberg_issued: '2020-09-26'
 gutenberg_type: Text
 identifiers:
